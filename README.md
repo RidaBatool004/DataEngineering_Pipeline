@@ -46,9 +46,17 @@ This project demonstrates the complete **Business Intelligence lifecycle** by:
   - Best category per quarter  
   - Top supplier per category  
   - Shipper with most high-value orders  
-  - Product with highest average order size  
+  - Product with highest average order size
   - Male vs Female customer profitability  
   - Months with unusual sales drops  
-  - Top 5 customers by revenue  
+  - Top 5 customers by revenue 
+
+- **Technologies Used**
+- SQL Server
+- SSIS (SQL Server Integration Services)
+- SSAS (SQL Server Analysis Services – Multidimensional)
+- Power BI Desktop (optional dashboard)
+- BPMN 2.0 (draw.io / Camunda)
+ 
   (all answered with cube browser screenshots)
 
